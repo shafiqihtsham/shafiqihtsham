@@ -1,5 +1,5 @@
 
-# **Hi!** 👋🏽 I'm Ihtsham (Eddy) an aspiring software engineer and final year student at UTS!
+# Hi! 👋🏽 I'm Ihtsham (Eddy) an aspiring software engineer and final year student at UTS!
 
 # 💻 Tech Stack:
 
