@@ -1,6 +1,6 @@
 
 # Hi! 👋🏽 I'm Ihtsham (Eddy) an aspiring software engineer and final year student at UTS!
-
+## My hobbies incldue bouldering, badminton and table tennis!
  ## Web Dev:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
