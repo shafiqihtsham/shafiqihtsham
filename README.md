@@ -1,5 +1,5 @@
 
-# Hi! 👋🏽 I'm Ihtsham (Eddy) an aspiring software engineer and final year student at UTS!
+# Hi! 👋🏽 I'm Ihtsham (Eddy) an aspiring software engineer and student at UTS!
 
 ## My current favourite tech stack: 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
