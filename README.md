@@ -1,5 +1,6 @@
 
-Hi! 👋🏽 <br/> <br/> I'm Ihtsham (Eddy) a Software Engineer at [Matrix AI](https://matrix.ai/) and student at UTS!
+#### Hi! 👋🏽
+I'm Ihtsham (Eddy) a Software Engineer at [Matrix AI](https://matrix.ai/) and student at UTS!
 
 #### My current favourite tech stack: 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -11,12 +12,8 @@ Hi! 👋🏽 <br/> <br/> I'm Ihtsham (Eddy) a Software Engineer at [Matrix AI](h
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
 #### 📖 I'm learning: 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-
-#### 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=shafiqihtsham&theme=default&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shafiqihtsham&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white)
 
 #### Open Source Contributions: 
 [Gradio](https://www.gradio.app/), [Polykey-CLI](https://github.com/MatrixAI/Polykey-CLI), [MDN](https://github.com/mdn/content/pull/37814#event-16073520979) <br/> and hopefully many more!
