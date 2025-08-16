@@ -1,6 +1,6 @@
 
 #### Hi! 👋🏽
-I'm Ihtsham (Eddy) a Software Engineer at [Matrix AI](https://matrix.ai/) and student at UTS!
+I'm Ihtsham (Eddy) a student at UTS who is passionate about learning new things and using technology to solve real problems.
 
 #### My current favourite tech stack: 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
